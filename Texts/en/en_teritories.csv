@@ -1,0 +1,43 @@
+*;base;en;Adjective;Genitive;Indefinite;Plural
+default;;{base};{base}'s;a {ian};{base}
+tn_Bulgaria;Bulgaria;Bulgarian;Bulgaria's;a Bulgarian;Bulgarians
+tn_Byzantium;Byzantine Empire;Byzantine;Byzantine's;a Byzantine;Byzantines
+tn_Umayyads;Umayyad Caliphate;Arab;Umayyads';an Umayyad;Umayyads
+tn_Visigoths;Visigothic Kingdom;Spanish;Visigoths';a Visigoth;Visigoths
+tn_Franks;Frankish Kingdom;French;Franks';a Frank;Franks
+tn_Lombards;Lombard Kingdom;Italian;Lombards';a Lombard;Lombards
+tn_Avars;Avar Khaganate;Steppe;Avars';an Avar;Avars
+tn_Khazars;Khazar Khaganate;Khazar;Khazars';a Khazar;Khazars
+tn_Mercia;Kingdom of Mercia;English;Mercia's;a Mercian;Mercians
+tn_Northumbria;Kingdom of Northumbria;English;Northumbria's;a Northumbrian;Northumbrians
+tn_Wessex;Kingdom of Wessex;English;Wessex's;a Wessexian;Wessexians
+tn_Alba;Kingdom of Alba;Scottish;Alba's;a Scot;Scots
+tn_Dal_Riata;Dal Riata;Gaelic;Dal Riata's;a Gael;Gaels
+tn_Powys;Kingdom of Powys;Welsh;Powys';a Welsh;Welsh
+tn_Venice;Republic of Venice;Venetian;Venice's;a Venetian;Venetians
+tn_Papal_States;Papal States;Papal;Papal States';a Papal;Papals
+tn_Aksum;Aksumite Empire;Ethiopian;Aksum's;an Aksumite;Aksumites
+tn_Makuria;Kingdom of Makuria;Nubian;Makuria's;a Nubian;Nubians
+tn_Garamantes;Kingdom of the Garamantes;Berber;Garamantes';a Garamantian;Garamantians
+tn_Tarnovo;Tarnovo;;;;
+tn_Karvuna;Odessos;;;;
+tn_Severin;Severin;;;;
+tn_Bdin;Bdin;;;;
+tn_Ohrid;Ohrid;;;;
+tn_Sredets;Sredets;;;;
+tn_Strymon;Strymon;;;;
+tn_Thrace;Thrace;;;;
+tn_Tunisia;Tunisia;;;;
+tn_Yedisan;Yedisan;;;;
+tn_Bessarabia;Bessarabia;;;;
+tn_Wallachia;Wallachia;;;;
+tn_Moldavia;Moldavia;;;;
+tn_Branichevo;Branichevo;;;;
+tn_Nis;Nis;;;;
+cu_Steppe;Steppe;Steppe;Steppe's;a Steppe;Steppes
+cu_Kutrigur;Kutrigur;Kutrigur;Kutrigur's;a Kutrigur;Kutrigurs
+cu_Bulgarian;Bulgarian;Bulgarian;Bulgarian's;a Bulgarian;Bulgarians
+cu_Byzantine;Byzantine;Byzantine;Byzantine's;a Byzantine;Byzantines
+cu_Arab;Arab;Arab;Arab's;an Arab;Arabs
+cu_Khazar;Khazar;Khazar;Khazar's;a Khazar;Khazars
+cu_Avar;Avar;Avar;Avar's;an Avar;Avars

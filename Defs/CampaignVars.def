@@ -1,0 +1,16 @@
+// { defs_version = 131 }
+extend SinglePlayerCampaignVars
+{
+	start_period
+	{
+		options
+		{
+			681AD
+			{
+				name = 681AD
+				description = 681AD
+				icon = "early"
+			}
+		}
+	}
+}
