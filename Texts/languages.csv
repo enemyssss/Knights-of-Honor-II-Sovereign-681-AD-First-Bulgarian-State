@@ -1,5 +1,5 @@
 ID;en;bg
-"SinglePlayerCampaignVars.start_period.options.681AD.name";"681 AD - First Bulgarian State";"681 г.сл.хр. - Първа българска държава"
-"SinglePlayerCampaignVars.start_period.options.681AD.description";"Bulgaria has just established itself on the Balkans. Lead the Khanate to glory!";"България току-що се е утвърдила на Балканите. Поведете Ханството към величие!"
+"SinglePlayerCampaignVars.start_period.options.681AD.name";"681 AD - First Bulgarian State";"681 г.сл.Хр. - Първа българска държава"
+"SinglePlayerCampaignVars.start_period.options.681AD.description";"Bulgaria has just established itself on the Balkans. Lead the Kanate to glory!";"България току-що се е утвърдила на Балканите. Поведете Канството към величие!"
 *;base;bg
 default;;{base}

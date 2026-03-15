@@ -1,0 +1,188 @@
+*;base;en;Adjective;Genitive;Indefinite;Plural
+default;;{base};{base}'s;a {ian};{base}
+tn_Bulgaria;Bulgaria;Bulgarian;Bulgaria's;a Bulgarian;Bulgarians
+tn_Bulgaria_681;Bulgaria;Bulgarian;Bulgaria's;a Bulgarian;Bulgarians
+tn_Byzantium;Byzantium;Byzantine;Byzantine's;a Byzantine;Byzantines
+tn_Umayyads;Umayyads;Arab;Umayyads';an Umayyad;Umayyads
+tn_Visigoths;Visigoths;Spanish;Visigoths';a Visigoth;Visigoths
+tn_Franks;Franks;French;Franks';a Frank;Franks
+tn_Lombards;Lombards;Italian;Lombards';a Lombard;Lombards
+tn_Avars;Avars;Steppe;Avars';an Avar;Avars
+tn_Khazars;Khazar Khaganate;Khazar;Khazars';a Khazar;Khazars
+tn_Mercia;Kingdom of Mercia;English;Mercia's;a Mercian;Mercians
+tn_Northumbria;Kingdom of Northumbria;English;Northumbria's;a Northumbrian;Northumbrians
+tn_Wessex;Kingdom of Wessex;English;Wessex's;a Wessexian;Wessexians
+tn_Alba;Alba;Pictish;Alba's;an Alban;Albans
+tn_Dal_Riata;Dal Riata;Gaelic;Dal Riata's;a Gael;Gaels
+tn_Powys;Kingdom of Powys;Welsh;Powys';a Welsh;Welsh
+tn_Venice;Republic of Venice;Venetian;Venice's;a Venetian;Venetians
+tn_Papal_States;Papal States;Papal;Papal States';a Papal;Papals
+tn_Garamantes;Kingdom of the Garamantes;Berber;Garamantes';a Garamantian;Garamantians
+tn_Exarchate_of_Africa;Exarchate of Africa;Byzantine;Exarchate's;a Byzantine;Byzantines
+tn_Zenata;Zenata;Berber;Zenata's;a Zenata;Berbers
+tn_Beroea;Beroea;Byzantine;Beroea's;a Beroean;Beroeans
+tn_Kent;Kent;English;Kent's;a Kentish;Kentishmen
+tn_East_Anglia;East Anglia;English;East Anglia's;an East Anglian;East Anglians
+tn_Essex;Essex;English;Essex's;an Essexman;Essexmen
+tn_Sussex;Sussex;English;Sussex's;a Sussexman;Sussexmen
+tn_Bavaria;Duchy of Bavaria;Bavarian;Bavaria's;a Bavarian;Bavarians
+tn_Aquitaine;Duchy of Aquitaine;French;Aquitaine's;an Aquitanian;Aquitanians
+tn_Armenia;Armenia;Armenian;Armenia's;an Armenian;Armenians
+tn_Lazika;Lazika;Abkhazian;Lazika's;a Laz;Lazes
+tn_Shirvan;Shirvan;Persian;Shirvan's;a Shirvani;Shirvanis
+tn_Tarnovo;Tarnovo;Tarnovo;;;;
+tn_Karvuna;Varna;Varna;;;;
+tn_Cyprus;Larnaca;Larnaca;;;;
+tn_Crete;Heraklion;Heraklion;;;;
+tn_Rhodes;Rhodes;Rhodes;;;;
+tn_Crimea;Chersonesos;Chersonesos;;;;
+tn_Taman;Tamatarucha;Tamatarucha;;;;
+tn_Sardinia;Karalis;Karalis;;;;
+tn_Sicily;Panormos;Panormos;;;;
+tn_Calabria;Reggio;Reggio;;;;
+tn_Apulia;Bari;Bari;;;;
+tn_Dyrrachion;Durres;Durres;;;;
+tn_Attica;Athens;Athens;;;;
+tn_Epirus;Epirus;Epirus;;;;
+tn_Achaea;Patras;Patras;;;;
+tn_Bari;Barion;Barion;;;;
+tn_Reggio;Rhegion;Rhegion;;;;
+tn_Syracuse;Syracuse;Syracuse;;;;
+tn_Cagliari;Cagliari;Cagliari;;;;
+tn_Bursa;Bursa;Bursa;;;;
+tn_Nicaea;Iznik;Iznik;;;;
+tn_Izmir;Izmir;Izmir;;;;
+tn_Menteshe;Milas;Milas;;;;
+tn_Sardis;Sart;Sart;;;;
+tn_Ankara;Ankara;Ankara;;;;
+tn_Lycia;Antalya;Antalya;;;;
+tn_Konya;Konya;Konya;;;;
+tn_Amasya;Amasya;Amasya;;;;
+tn_Cappadocia;Kayseri;Kayseri;;;;
+tn_Adiyaman;Samsat;Samsat;;;;
+tn_Chaldia;Trebizond;Trebizond;;;;
+tn_Cilicia;Tarsus;Tarsus;;;;
+tn_Antioch;Antakya;Antakya;;;;
+tn_Edessa;Edessa;Edessa;;;;
+tn_Severin;Severin;Severin;;;;
+tn_Bdin;Bdin;Bdin;;;;
+tn_Ohrid;Ohrid;Ohrid;;;;
+tn_Sredets;Sredets;Sredets;;;;
+tn_Strymon;Strymon;Strymon;;;;
+tn_Thrace;Thrace;Thrace;;;;
+tn_Tunisia;Tunisia;Tunisia;;;;
+tn_Hermonassa;Hermonassa;Hermonassa;;;;
+tn_Achris;Achris;Achris;;;;
+tn_Bononia;Bononia;Bononia;;;;
+tn_Margus;Margus;Margus;;;;
+tn_Hadrianopolis;Edirne;Edirne;;;;
+tn_Seleucia_Ctesiphon;Seleucia-Ctesiphon;Seleucia-Ctesiphon;;;;
+tn_Roma;Roma;Roma;;;;
+tn_Neapolis;Neapolis;Neapolis;;;;
+tn_Florentia;Florentia;Florentia;;;;
+tn_Yedisan;Yedisan;Yedisan;;;;
+tn_Bessarabia;Bessarabia;Bessarabia;;;;
+tn_Wallachia;Wallachia;Wallachia;;;;
+tn_Moldavia;Moldavia;Moldavia;;;;
+tn_Branichevo;Margus;Margus;;;;
+tn_Nis;Naissus;Naissus;;;;
+tn_London;London;London;;;;
+tn_Kent;Cantwaraburh;Cantwaraburh;;;;
+tn_Hampshire;Wintanceaster;Wintanceaster;;;;
+tn_Devon;Execestre;Execestre;;;;
+tn_Warwickshire;Waerincwic;Waerincwic;;;;
+tn_Nottinghamshire;Snotingaham;Snotingaham;;;;
+tn_Yorkshire;York;York;;;;
+tn_Northumberland;Monkchester;Monkchester;;;;
+tn_Aquitaine;Burdigala;Burdigala;;;;
+tn_Poitou;Pictavium;Pictavium;;;;
+tn_Normandy;Rotomagus;Rotomagus;;;;
+tn_Orleannais;Aurelianum;Aurelianum;;;;
+tn_Lyonnais;Lugdunum;Lugdunum;;;;
+tn_Toulouse;Tolosa;Tolosa;;;;
+tn_Provence;Massalia;Massalia;;;;
+tn_Burgundy;Divio;Divio;;;;
+tn_Lorraine;Nanciacum;Nanciacum;;;;
+tn_Navarra;Pompaelo;Pompaelo;;;;
+tn_Estremadura;Olisipo;Olisipo;;;;
+tn_Algarve;Ossonoba;Ossonoba;;;;
+tn_Catalonia;Barcino;Barcino;;;;
+tn_Valencia;Valentia;Valentia;;;;
+tn_Zaragoza;Caesaraugusta;Caesaraugusta;;;;
+tn_Andalucia;Hispalis;Hispalis;;;;
+tn_Cordoba;Corduba;Corduba;;;;
+tn_Granada;Elvira;Elvira;;;;
+tn_Bavaria;Augusta Vindelicorum;Augusta Vindelicorum;;;;
+tn_Hamburg;Hammaburg;Hammaburg;;;;
+tn_Bremen;Bremon;Bremon;;;;
+tn_Thuringia;Erphesfurt;Erphesfurt;;;;
+tn_Pfalz;Borbetomagus;Borbetomagus;;;;
+tn_Rhineland;Colonia Agrippina;Colonia Agrippina;;;;
+tn_Alsace;Argentoratum;Argentoratum;;;;
+tn_Austria;Vindobona;Vindobona;;;;
+tn_Switzerland;Turicum;Turicum;;;;
+tn_Tunisia;Tunes;Tunes;;;;
+tn_Algiers;Icosium;Icosium;;;;
+tn_Tlemcen;Pomaria;Pomaria;;;;
+tn_Lothian;Edinburgh;Edinburgh;;;;
+tn_Liguria;Genua;Genua;;;;
+tn_Targoviste;Tirgoviste;Tirgoviste;;;;
+tn_Constantinopolis;Constantinople;Constantinople;;;;
+tn_Trapezitsa;Trapezitsa;Trapezitsa;;;;
+tn_Odessos;Odessos;Odessos;;;;
+tn_Serdica;Serdica;Serdica;;;;
+tn_Bononia;Bononia;Bononia;;;;
+tn_Lundenwic;Lundenwic;Lundenwic;;;;
+tn_Eoforwic;Eoforwic;Eoforwic;;;;
+tn_Din_Eidyn;Din Eidyn;Din Eidyn;;;;
+tn_Konstantinoupolis;Konstantinoupolis;Konstantinoupolis;;;;
+tn_Naissus;Naissus;Naissus;;;;
+tn_Achris;Achris;Achris;;;;
+tn_Tamatarucha;Tamatarucha;Tamatarucha;;;;
+tn_Monkchester;Monkchester;Monkchester;;;;
+tn_Lychnidos;Lychnidos;Lychnidos;;;;
+tn_Burdigala;Burdigala;Burdigala;;;;
+tn_Thessaloniki;Thessaloniki;Thessaloniki;;;;
+tn_Hadrianopolis;Hadrianopolis;Hadrianopolis;;;;
+tn_Seleucia-Ctesiphon;Seleucia-Ctesiphon;Seleucia-Ctesiphon;;;;
+tn_Fustat;Fustat;Fustat;;;;
+tn_Tunes;Tunes;Tunes;;;;
+tn_Icosium;Icosium;Icosium;;;;
+tn_Pomaria;Pomaria;Pomaria;;;;
+tn_Ankyra;Ankyra;Ankyra;;;;
+tn_Attalea;Attalea;Attalea;;;;
+tn_Amaseia;Amaseia;Amaseia;;;;
+tn_Trapezous;Trapezous;Trapezous;;;;
+tn_Theodosiopolis;Theodosiopolis;Theodosiopolis;;;;
+tn_Chersonesos;Chersonesos;Chersonesos;;;;
+tn_Ephedamnos;Epidamnos;Epidamnos;;;;
+tn_Barion;Barion;Barion;;;;
+tn_Rhegion;Rhegion;Rhegion;;;;
+tn_Panormos;Panormos;Panormos;;;;
+tn_Karalis;Karalis;Karalis;;;;
+tn_Athenai;Athenai;Athenai;;;;
+tn_Nikopolis;Nikopolis;Nikopolis;;;;
+tn_Lacedaemon;Lacedaemon;Lacedaemon;;;;
+tn_Prusa;Prusa;Prusa;;;;
+tn_Nikaia;Nikaia;Nikaia;;;;
+tn_Smyrne;Smyrne;Smyrne;;;;
+tn_Mylasa;Mylasa;Mylasa;;;;
+tn_Sardeis;Sardeis;Sardeis;;;;
+tn_Ankyra;Ankyra;Ankyra;;;;
+tn_Attaleia;Attaleia;Attaleia;;;;
+tn_Ikonion;Ikonion;Ikonion;;;;
+tn_Amaseia;Amaseia;Amaseia;;;;
+tn_Kaisareia;Kaisareia;Kaisareia;;;;
+tn_Samosata;Samosata;Samosata;;;;
+tn_Trapezous;Trapezous;Trapezous;;;;
+tn_Tarsos;Tarsos;Tarsos;;;;
+tn_Antiocheia;Antiocheia;Antiocheia;;;;
+tn_Tunes;Tunes;Tunes;;;;
+tn_Seleucia_Ctesiphon;Seleucia-Ctesiphon;Seleucia-Ctesiphon;;;;
+cu_Steppe;Steppe;Steppe;Steppe's;a Steppe;Steppes
+cu_Kutrigur;Kutrigur;Kutrigur;Kutrigur's;a Kutrigur;Kutrigurs
+cu_Bulgarian;Bulgarian;Bulgarian;Bulgarian's;a Bulgarian;Bulgarians
+cu_Byzantine;Byzantine;Byzantine;Byzantine's;a Byzantine;Byzantines
+cu_Arab;Arab;Arab;Arab's;an Arab;Arabs
+cu_Khazar;Khazar;Khazar;Khazar's;a Khazar;Khazars
+cu_Avar;Avar;Avar;Avar's;an Avar;Avars

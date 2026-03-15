@@ -1,0 +1,14 @@
+﻿******** Conflicts between workshop:681AD (681 AD - The First Bulgarian State) and workshop:BulgarianLangMod (Bulgarian Language Mod):
+
+======== Text conflicts: 2
+
+-------- bg:BulgarianNobility.King:nom:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_titles.csv(8): "Царът"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\BulgarianLangMod\texts\bg\bg_titles.csv(19): "Царят"
+
+-------- bg:BulgarianNobility.Emperor:nom:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_titles.csv(10): "Царът"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\BulgarianLangMod\texts\bg\bg_titles.csv(111): "Царят"
+
+
+

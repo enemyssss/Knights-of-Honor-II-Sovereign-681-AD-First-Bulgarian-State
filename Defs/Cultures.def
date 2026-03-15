@@ -1,0 +1,14 @@
+extend Cultures
+{
+	groups
+	{
+		Turkic
+		{
+			Steppe
+		}
+		Gaelic
+		{
+			Pictish
+		}
+	}
+}

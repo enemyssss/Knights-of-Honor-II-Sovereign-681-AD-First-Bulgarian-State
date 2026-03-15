@@ -5,11 +5,33 @@ extend SinglePlayerCampaignVars
 	{
 		options
 		{
-			681AD
+			default 681AD
 			{
-				name = 681AD
-				description = 681AD
+				name = "sc_681AD_name"
+				description = "sc_681AD_desc"
 				icon = "early"
+				kingdoms = ["Bulgaria_681", "Byzantium", "Umayyads", "Visigoths", "Franks", "Lombards", "Avars", "Khazars", "Mercia", "Northumbria", "Wessex", "Alba", "Dal_Riata", "Powys", "Venice", "Papal_States", "Aksum", "Makuria", "Garamantes", "Kent", "East_Anglia", "Essex", "Sussex", "Bavaria", "Aquitaine", "Armenia", "Lazika", "Shirvan", "Exarchate_of_Africa", "Zenata"]
+			}
+			early
+			{
+				name = "1110 AD"
+				description = "Starting political landscape based around year 1110"
+				sprite icon = "Assets/UI/Elements/Multiplayer/Campaings/RuleIcons/Icon_MultiplayerCampaign_StartPeriod_Early.png:Icon_MultiplayerCampaign_StartPeriod_Early#2"
+				kingdoms = ["Bulgaria", "Byzantium", "Hungary", "Poland", "Germany", "France", "England", "Castile", "Aragon", "Leon", "Portugal", "Denmark", "Norway", "Sweden", "Scotland", "Sicily", "Almoravids", "Seljuks", "Fatimids", "Trebizond", "Latin_Empire"]
+			}
+			mid
+			{
+				name = "1224 AD"
+				description = "Starting political landscape based around year 1224"
+				sprite icon = "Assets/UI/Elements/Multiplayer/Campaings/RuleIcons/Icon_MultiplayerCampaign_StartPeriod_Mid.png:Icon_MultiplayerCampaign_StartPeriod_Mid#2"
+				kingdoms = ["Bulgaria", "Byzantium", "Hungary", "Poland", "Germany", "France", "England", "Castile", "Aragon", "Portugal", "Denmark", "Norway", "Sweden", "Scotland", "Sicily", "Almohads", "Seljuks", "Ayyubids", "Latin_Empire", "Nicaea", "Epirus"]
+			}
+			late
+			{
+				name = "1360 AD"
+				description = "Starting political landscape based around year 1360"
+				sprite icon = "Assets/UI/Elements/Multiplayer/Campaings/RuleIcons/Icon_MultiplayerCampaign_StartPeriod_Late.png:Icon_MultiplayerCampaign_StartPeriod_Late#2"
+				kingdoms = ["Bulgaria", "Byzantium", "Hungary", "Poland", "Germany", "France", "England", "Castile", "Aragon", "Portugal", "Denmark", "Norway", "Sweden", "Scotland", "Naples", "Marinids", "Ottomans", "Mamluks", "Golden_Horde", "Lithuania", "Serbia", "Bosnia", "Moldavia", "Wallachia"]
 			}
 		}
 	}
