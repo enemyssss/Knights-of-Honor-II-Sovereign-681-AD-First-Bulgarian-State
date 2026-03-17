@@ -1,14 +1,988 @@
-﻿******** Conflicts between workshop:681AD (681 AD - The First Bulgarian State) and workshop:BulgarianLangMod (Bulgarian Language Mod):
+﻿******** Conflicts between workshop:681AD (681 AD - The First Bulgarian State on Balkans) and workshop:917AD (917 AD - The Golden Age of Bulgaria):
 
-======== Text conflicts: 2
+======== Def conflicts: 173
 
--------- bg:BulgarianNobility.King:nom:
-C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_titles.csv(8): "Царът"
-C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\BulgarianLangMod\texts\bg\bg_titles.csv(19): "Царят"
+-------- europe:NamePeriod_Byzantium.KingNameAge:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\kingdoms.csv(7): KingNameAge = Konstantinos_4.A
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\kingdoms.csv(3): KingNameAge = Konstantinos_7.A
 
--------- bg:BulgarianNobility.Emperor:nom:
-C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_titles.csv(10): "Царът"
-C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\BulgarianLangMod\texts\bg\bg_titles.csv(111): "Царят"
+-------- europe:NamePeriod_Wessex.KingNameAge:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\kingdoms.csv(16): KingNameAge = Centwine.A
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\kingdoms.csv(8): KingNameAge = Edward_the_Elder.A
+
+-------- europe:NamePeriod_Alba.KingNameAge:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\kingdoms.csv(17): KingNameAge = Bruide_3.A
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\kingdoms.csv(25): KingNameAge = Constantine_2.A
+
+-------- Periods.europe:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\periods.def(3): europe = "681AD"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\periods.def(3): europe = "917AD"
+
+-------- europe:Name_Karvuna.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(3): Owner = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(2): Owner = Bulgaria_917
+
+-------- europe:Name_Karvuna.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(3): Religion = Pagan
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(2): Religion = Orthodox
+
+-------- europe:Name_Karvuna.CoreOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(3): CoreOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(2): CoreOf = Bulgaria_917
+
+-------- europe:Name_Karvuna.HistoricalOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(3): HistoricalOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(2): HistoricalOf = Bulgaria_917
+
+-------- europe:Name_Karvuna.E.PopulationPerc:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(4): PopulationPerc = Bulgaria.80
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(3): PopulationPerc = Bulgaria_917.80
+
+-------- europe:Name_Bavaria.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(7): Owner = Bavaria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(6): Owner = -
+
+-------- europe:Name_Hajrah.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(14): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(13): Owner = -
+
+-------- europe:Name_Al_Duwadimi.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(18): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(17): Owner = -
+
+-------- europe:Name_Mascat.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(46): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(45): Owner = -
+
+-------- europe:Name_Homs.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(53): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(52): Owner = -
+
+-------- europe:Name_Granada.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(59): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(58): Owner = Cordoba
+
+-------- europe:Name_Granada.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(59): Religion = Sunni
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(58): Religion = Islam
+
+-------- europe:Name_Wadi_Al_Batin.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(70): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(69): Owner = -
+
+-------- europe:Name_Bdin.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(91): Owner = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(90): Owner = Bulgaria_917
+
+-------- europe:Name_Bdin.Culture:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(91): Culture = Byzantine
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(90): Culture = Bulgarian
+
+-------- europe:Name_Bdin.CoreOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(91): CoreOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(90): CoreOf = Bulgaria_917
+
+-------- europe:Name_Bdin.HistoricalOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(91): HistoricalOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(90): HistoricalOf = Bulgaria_917
+
+-------- europe:Name_Bdin.E.PopulationPerc:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(92): PopulationPerc = Bulgaria.80
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(91): PopulationPerc = Bulgaria_917.80
+
+-------- europe:Name_Bdin.L.PopulationPerc:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(94): PopulationPerc = Bulgaria.80
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(93): PopulationPerc = Bulgaria_917.80
+
+-------- europe:Name_London.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(195): Owner = Essex
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(194): Owner = -
+
+-------- europe:Name_Kent.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(199): Owner = Kent
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(198): Owner = -
+
+-------- europe:Name_Warwickshire.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(211): Owner = Mercia
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(210): Owner = -
+
+-------- europe:Name_Nottinghamshire.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(215): Owner = Mercia
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(214): Owner = -
+
+-------- europe:Name_Yorkshire.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(219): Owner = Northumbria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(218): Owner = -
+
+-------- europe:Name_Northumberland.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(223): Owner = Northumbria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(222): Owner = -
+
+-------- europe:Name_Glamorgan.E.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(230): Owner = Powys
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(229): Owner = -
+
+-------- europe:Name_Aquitaine.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(237): Owner = Aquitaine
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(236): Owner = -
+
+-------- europe:Name_Ile_de_France.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(266): Owner = Franks
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(265): Owner = West_Francia
+
+-------- europe:Name_Orleannais.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(273): Owner = Franks
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(272): Owner = West_Francia
+
+-------- europe:Name_Lyonnais.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(277): Owner = Franks
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(276): Owner = West_Francia
+
+-------- europe:Name_Burgundy.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(286): Owner = Franks
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(285): Owner = West_Francia
+
+-------- europe:Name_Austria.E.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(337): Owner = Bavaria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(336): Owner = -
+
+-------- europe:Name_Tyrol.E.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(339): Owner = Bavaria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(338): Owner = -
+
+-------- europe:Name_Tyrol.L.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(340): Owner = Bavaria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(339): Owner = -
+
+-------- europe:Name_Carinthia.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(341): Owner = Bavaria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(340): Owner = -
+
+-------- europe:Name_Extremadura.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(455): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(454): Owner = Cordoba
+
+-------- europe:Name_Extremadura.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(455): Religion = Sunni
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(454): Religion = Islam
+
+-------- europe:Name_Toledo.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(459): Owner = Visigoths
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(458): Owner = Cordoba
+
+-------- europe:Name_Toledo.Culture:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(459): Culture = Spanish
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(458): Culture = Andalusian
+
+-------- europe:Name_Toledo.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(459): Religion = Catholic
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(458): Religion = Islam
+
+-------- europe:Name_Andalucia.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(463): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(462): Owner = Cordoba
+
+-------- europe:Name_Andalucia.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(463): Religion = Sunni
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(462): Religion = Islam
+
+-------- europe:Name_Cordoba.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(467): Owner = Visigoths
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(466): Owner = Cordoba
+
+-------- europe:Name_Cordoba.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(467): Religion = Sunni
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(466): Religion = Islam
+
+-------- europe:Name_Zaragoza.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(474): Owner = Visigoths
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(473): Owner = Cordoba
+
+-------- europe:Name_Zaragoza.Culture:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(474): Culture = Spanish
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(473): Culture = Andalusian
+
+-------- europe:Name_Zaragoza.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(474): Religion = Catholic
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(473): Religion = Islam
+
+-------- europe:Name_Valencia.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(482): Owner = Visigoths
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(481): Owner = Cordoba
+
+-------- europe:Name_Valencia.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(482): Religion = Sunni
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(481): Religion = Islam
+
+-------- europe:Name_Tuscany.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(523): Owner = Lombards
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(522): Owner = -
+
+-------- europe:Name_Lombardy.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(539): Owner = Lombards
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(538): Owner = -
+
+-------- europe:Name_Novgorod.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(563): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(562): Owner = Kievan_Rus
+
+-------- europe:Name_Novgorod.Culture:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(563): Culture = Novgorodian
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(562): Culture = Kyivan
+
+-------- europe:Name_Novgorod.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(563): Religion = Orthodox
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(562): Religion = Pagan
+
+-------- europe:Name_Smolensk.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(598): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(597): Owner = Kievan_Rus
+
+-------- europe:Name_Smolensk.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(598): Religion = Orthodox
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(597): Religion = Pagan
+
+-------- europe:Name_Polotsk.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(609): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(608): Owner = Kievan_Rus
+
+-------- europe:Name_Polotsk.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(609): Religion = Orthodox
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(608): Religion = Pagan
+
+-------- europe:Name_Chernigov.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(638): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(637): Owner = Kievan_Rus
+
+-------- europe:Name_Chernigov.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(638): Religion = Orthodox
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(637): Religion = Pagan
+
+-------- europe:Name_Kyiv.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(645): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(644): Owner = Kievan_Rus
+
+-------- europe:Name_Kyiv.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(645): Religion = Orthodox
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(644): Religion = Pagan
+
+-------- europe:Name_Pereyaslavl.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(654): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(653): Owner = Kievan_Rus
+
+-------- europe:Name_Pereyaslavl.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(654): Religion = Orthodox
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(653): Religion = Pagan
+
+-------- europe:Name_Manych.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(681): Owner = Khazars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(680): Owner = -
+
+-------- europe:Name_Ukek.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(689): Owner = Khazars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(688): Owner = -
+
+-------- europe:Name_Sarkel.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(705): Owner = Khazars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(704): Owner = -
+
+-------- europe:Name_Alania.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(709): Owner = Khazars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(708): Owner = -
+
+-------- europe:Name_Taman.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(713): Owner = Khazars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(712): Owner = -
+
+-------- europe:Name_Moldavia.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(727): Owner = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(726): Owner = Bulgaria_917
+
+-------- europe:Name_Moldavia.CoreOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(727): CoreOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(726): CoreOf = Bulgaria_917
+
+-------- europe:Name_Moldavia.HistoricalOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(727): HistoricalOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(726): HistoricalOf = Bulgaria_917
+
+-------- europe:Name_Moldavia.L.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(730): Owner = Moldavia
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(729): Owner = -
+
+-------- europe:Name_Bessarabia.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(731): Owner = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(730): Owner = Bulgaria_917
+
+-------- europe:Name_Bessarabia.CoreOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(731): CoreOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(730): CoreOf = Bulgaria_917
+
+-------- europe:Name_Bessarabia.HistoricalOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(731): HistoricalOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(730): HistoricalOf = Bulgaria_917
+
+-------- europe:Name_Bessarabia.L.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(734): Owner = Moldavia
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(733): Owner = -
+
+-------- europe:Name_Wallachia.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(735): Owner = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(734): Owner = Bulgaria_917
+
+-------- europe:Name_Wallachia.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(735): Religion = Pagan
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(734): Religion = Orthodox
+
+-------- europe:Name_Wallachia.CoreOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(735): CoreOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(734): CoreOf = Bulgaria_917
+
+-------- europe:Name_Wallachia.HistoricalOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(735): HistoricalOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(734): HistoricalOf = Bulgaria_917
+
+-------- europe:Name_Wallachia.L.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(738): Owner = Wallachia
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(737): Owner = -
+
+-------- europe:Name_Severin.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(739): Owner = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(738): Owner = Bulgaria_917
+
+-------- europe:Name_Severin.CoreOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(739): CoreOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(738): CoreOf = Bulgaria_917
+
+-------- europe:Name_Severin.HistoricalOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(739): HistoricalOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(738): HistoricalOf = Bulgaria_917
+
+-------- europe:Name_Severin.L.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(742): Owner = Wallachia
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(741): Owner = -
+
+-------- europe:Name_Buda.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(743): Owner = Avars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(742): Owner = Hungary
+
+-------- europe:Name_Buda.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(743): Religion = Catholic
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(742): Religion = Pagan
+
+-------- europe:Name_Nitra.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(747): Owner = Avars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(746): Owner = -
+
+-------- europe:Name_Abauj.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(751): Owner = Avars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(750): Owner = -
+
+-------- europe:Name_Transylvania.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(755): Owner = Avars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(754): Owner = Hungary
+
+-------- europe:Name_Transylvania.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(755): Religion = Catholic
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(754): Religion = Pagan
+
+-------- europe:Name_Komarom.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(758): Owner = -
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(757): Owner = Hungary
+
+-------- europe:Name_Komarom.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(758): Religion = Catholic
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(757): Religion = Pagan
+
+-------- europe:Name_Banat.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(762): Owner = Avars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(761): Owner = -
+
+-------- europe:Name_Baranya.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(766): Owner = Avars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(765): Owner = -
+
+-------- europe:Name_Branichevo.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(770): Owner = Byzantium
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(769): Owner = Bulgaria_917
+
+-------- europe:Name_Branichevo.Culture:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(770): Culture = Byzantine
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(769): Culture = Bulgarian
+
+-------- europe:Name_Hajdusag.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(774): Owner = Avars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(773): Owner = -
+
+-------- europe:Name_Zagreb.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(778): Owner = Avars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(777): Owner = -
+
+-------- europe:Name_Ohrid.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(798): Owner = Byzantium
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(797): Owner = Bulgaria_917
+
+-------- europe:Name_Ohrid.Culture:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(798): Culture = Byzantine
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(797): Culture = Bulgarian
+
+-------- europe:Name_Ohrid.E.PopulationPerc:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(799): PopulationPerc = Bulgaria.80
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(798): PopulationPerc = Bulgaria_917.80
+
+-------- europe:Name_Ohrid.L.PopulationPerc:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(801): PopulationPerc = Bulgaria.60
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(800): PopulationPerc = Bulgaria_917.60
+
+-------- europe:Name_Tarnovo.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(802): Owner = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(801): Owner = Bulgaria_917
+
+-------- europe:Name_Tarnovo.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(802): Religion = Pagan
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(801): Religion = Orthodox
+
+-------- europe:Name_Tarnovo.CoreOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(802): CoreOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(801): CoreOf = Bulgaria_917
+
+-------- europe:Name_Tarnovo.HistoricalOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(802): HistoricalOf = Bulgaria_681
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(801): HistoricalOf = Bulgaria_917
+
+-------- europe:Name_Tarnovo.E.PopulationPerc:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(803): PopulationPerc = Bulgaria.80
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(802): PopulationPerc = Bulgaria_917.80
+
+-------- europe:Name_Sredets.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(806): Owner = Byzantium
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(805): Owner = Bulgaria_917
+
+-------- europe:Name_Sredets.Culture:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(806): Culture = Byzantine
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(805): Culture = Bulgarian
+
+-------- europe:Name_Sredets.E.PopulationPerc:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(807): PopulationPerc = Bulgaria.80
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(806): PopulationPerc = Bulgaria_917.80
+
+-------- europe:Name_Aden.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(922): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(921): Owner = -
+
+-------- europe:Name_Salalah.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(926): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(925): Owner = -
+
+-------- europe:Name_Basra.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(930): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(929): Owner = -
+
+-------- europe:Name_Qufa.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(934): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(933): Owner = -
+
+-------- europe:Name_Baghdad.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(938): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(937): Owner = -
+
+-------- europe:Name_Kermanshah.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(942): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(941): Owner = -
+
+-------- europe:Name_Raqqa.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(946): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(945): Owner = -
+
+-------- europe:Name_Tikrit.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(950): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(949): Owner = -
+
+-------- europe:Name_Shirvan.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(964): Owner = Shirvan
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(963): Owner = -
+
+-------- europe:Name_Mosul.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(969): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(968): Owner = -
+
+-------- europe:Name_Lebanon.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(981): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(980): Owner = -
+
+-------- europe:Name_Antioch.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(985): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(984): Owner = Byzantium
+
+-------- europe:Name_Antioch.Culture:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(985): Culture = Arab
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(984): Culture = Byzantine
+
+-------- europe:Name_Antioch.Religion:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(985): Religion = Sunni
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(984): Religion = Orthodox
+
+-------- europe:Name_Edessa.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(991): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(990): Owner = -
+
+-------- europe:Name_Al_Halab.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(995): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(994): Owner = -
+
+-------- europe:Name_Damascus.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(999): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(998): Owner = -
+
+-------- europe:Name_Palestine.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1002): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1001): Owner = -
+
+-------- europe:Name_Transjordania.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1006): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1005): Owner = -
+
+-------- europe:Name_Sinai.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1010): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1009): Owner = -
+
+-------- europe:Name_Al_Khanafah.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1014): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1013): Owner = -
+
+-------- europe:Name_Yathrib.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1018): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1017): Owner = -
+
+-------- europe:Name_Yathrib.E.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1019): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1018): Owner = -
+
+-------- europe:Name_Al_Maqqah.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1022): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1021): Owner = -
+
+-------- europe:Name_Al_Maqqah.E.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1023): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1022): Owner = -
+
+-------- europe:Name_Jeddah.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1026): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1025): Owner = -
+
+-------- europe:Name_Jeddah.E.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1027): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1026): Owner = -
+
+-------- europe:Name_Dumyat.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1030): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1029): Owner = -
+
+-------- europe:Name_Alexandria.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1034): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1033): Owner = -
+
+-------- europe:Name_Cairo.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1038): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1037): Owner = -
+
+-------- europe:Name_Qena.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1042): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1041): Owner = -
+
+-------- europe:Name_Faras.E.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1054): Owner = Makuria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1053): Owner = -
+
+-------- europe:Name_Faras.M.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1055): Owner = Makuria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1054): Owner = -
+
+-------- europe:Name_Faras.L.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1056): Owner = Makuria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1055): Owner = -
+
+-------- europe:Name_Dongola.E.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1058): Owner = Makuria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1057): Owner = -
+
+-------- europe:Name_Dongola.M.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1059): Owner = Makuria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1058): Owner = -
+
+-------- europe:Name_Dongola.L.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1060): Owner = Makuria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1059): Owner = -
+
+-------- europe:Name_Siwa.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1061): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1060): Owner = -
+
+-------- europe:Name_Cyrenaica.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1065): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1064): Owner = -
+
+-------- europe:Name_Matrouh.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1072): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1071): Owner = -
+
+-------- europe:Name_Aqaba.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1076): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1075): Owner = -
+
+-------- europe:Name_Acre.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1080): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1079): Owner = -
+
+-------- europe:Name_Samandar.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1084): Owner = Khazars
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1083): Owner = -
+
+-------- europe:Name_Dagestan.E.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1089): Owner = Shirvan
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1088): Owner = -
+
+-------- europe:Name_Dagestan.M.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1090): Owner = Shirvan
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1089): Owner = -
+
+-------- europe:Name_Dagestan.L.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1091): Owner = Shirvan
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1090): Owner = -
+
+-------- europe:Name_Cirta.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1108): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1107): Owner = -
+
+-------- europe:Name_Tripolitania.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1112): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1111): Owner = -
+
+-------- europe:Name_Tunisia.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1120): Owner = Exarchate_of_Africa
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1119): Owner = -
+
+-------- europe:Name_Tunisia.CoreOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1120): CoreOf = Exarchate_of_Africa
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1119): CoreOf = -
+
+-------- europe:Name_Tunisia.HistoricalOf:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1120): HistoricalOf = Exarchate_of_Africa
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1119): HistoricalOf = -
+
+-------- europe:Name_Ghat.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1135): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1134): Owner = -
+
+-------- europe:Name_Fezzan.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1138): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1137): Owner = -
+
+-------- europe:Name_Kaouar.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1141): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1140): Owner = -
+
+-------- europe:Name_Ascalon.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1148): Owner = Umayyads
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1147): Owner = -
+
+-------- europe:Name_Regensburg.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1152): Owner = Bavaria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1151): Owner = -
+
+-------- europe:Name_Ljubljana.Owner:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\maps\europe\realms.csv(1156): Owner = Bavaria
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\maps\europe\realms.csv(1155): Owner = -
+
+======== Text conflicts: 72
+
+-------- bg:tn_Severin:bg:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(65): "Северин"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(11): "северински"
+
+-------- bg:tn_Severin:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(65): "Северин"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(11): "на Северин"
+
+-------- bg:tn_Severin:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(65): "Северин"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(11): "северинска"
+
+-------- bg:tn_Severin:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(65): "Северин"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(11): "северинци"
+
+-------- bg:tn_Bdin:bg:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(66): "Бдин"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(5): "бдински"
+
+-------- bg:tn_Bdin:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(66): "Бдин"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(5): "на Бдин"
+
+-------- bg:tn_Bdin:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(66): "Бдин"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(5): "бдинска"
+
+-------- bg:tn_Bdin:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(66): "Бдин"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(5): "бдинци"
+
+-------- bg:tn_Ohrid:bg:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(67): "Охрид"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(6): "охридски"
+
+-------- bg:tn_Ohrid:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(67): "Охрид"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(6): "на Охрид"
+
+-------- bg:tn_Ohrid:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(67): "Охрид"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(6): "охридска"
+
+-------- bg:tn_Ohrid:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(67): "Охрид"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(6): "охридчани"
+
+-------- bg:tn_Bessarabia:bg:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(82): "Бесарабия"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(8): "бесарабски"
+
+-------- bg:tn_Bessarabia:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(82): "Бесарабия"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(8): "на Бесарабия"
+
+-------- bg:tn_Bessarabia:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(82): "Бесарабия"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(8): "бесарабска"
+
+-------- bg:tn_Bessarabia:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(82): "Бесарабия"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(8): "бесарабци"
+
+-------- bg:tn_Moldavia:bg:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(84): "Молдова"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(9): "молдовски"
+
+-------- bg:tn_Moldavia:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(84): "Молдова"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(9): "на Молдова"
+
+-------- bg:tn_Moldavia:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(84): "Молдова"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(9): "молдовска"
+
+-------- bg:tn_Moldavia:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(84): "Молдова"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(9): "молдовци"
+
+-------- bg:tn_Branichevo:bg:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(85): "Маргус"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(12): "браничевски"
+
+-------- bg:tn_Branichevo:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(85): "Маргус"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(12): "на Браничево"
+
+-------- bg:tn_Branichevo:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(85): "Маргус"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(12): "браничевска"
+
+-------- bg:tn_Branichevo:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(85): "Маргус"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(12): "браничевци"
+
+-------- bg:tn_Nis:bg:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(86): "Наисус"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(13): "нишки"
+
+-------- bg:tn_Nis:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(86): "Наисус"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(13): "на Ниш"
+
+-------- bg:tn_Nis:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(86): "Наисус"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(13): "нишка"
+
+-------- bg:tn_Nis:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(86): "Наисус"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(13): "нишлии"
+
+-------- bg:tn_Trapezitsa:bg:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(129): "Трапезица"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(4): "преславски"
+
+-------- bg:tn_Trapezitsa:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(129): "Трапезица"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(4): "на Велики Преслав"
+
+-------- bg:tn_Trapezitsa:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(129): "Трапезица"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(4): "преславска"
+
+-------- bg:tn_Trapezitsa:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\bg\bg_681AD_teritories.csv(129): "Трапезица"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\bg\bg_917AD_teritories.csv(4): "преславци"
+
+-------- en:tn_Karvuna:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(34): "Varna"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(7): "Karvunian"
+
+-------- en:tn_Karvuna:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(34): "Varna's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(7): "of Karvuna"
+
+-------- en:tn_Karvuna:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(34): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(7): "Karvunian"
+
+-------- en:tn_Karvuna:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(34): "Varna"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(7): "Karvunians"
+
+-------- en:tn_Severin:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(67): "Severin"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(11): "Severinian"
+
+-------- en:tn_Severin:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(67): "Severin's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(11): "of Severin"
+
+-------- en:tn_Severin:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(67): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(11): "Severinian"
+
+-------- en:tn_Severin:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(67): "Severin"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(11): "Severinians"
+
+-------- en:tn_Bdin:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(68): "Bdin"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(5): "Bdinian"
+
+-------- en:tn_Bdin:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(68): "Bdin's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(5): "of Bdin"
+
+-------- en:tn_Bdin:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(68): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(5): "Bdinian"
+
+-------- en:tn_Bdin:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(68): "Bdin"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(5): "Bdinians"
+
+-------- en:tn_Ohrid:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(69): "Ohrid"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(6): "Ohridian"
+
+-------- en:tn_Ohrid:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(69): "Ohrid's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(6): "of Ohrid"
+
+-------- en:tn_Ohrid:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(69): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(6): "Ohridian"
+
+-------- en:tn_Ohrid:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(69): "Ohrid"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(6): "Ohridians"
+
+-------- en:tn_Bessarabia:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(84): "Bessarabia"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(8): "Bessarabian"
+
+-------- en:tn_Bessarabia:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(84): "Bessarabia's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(8): "of Bessarabia"
+
+-------- en:tn_Bessarabia:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(84): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(8): "Bessarabian"
+
+-------- en:tn_Bessarabia:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(84): "Bessarabia"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(8): "Bessarabians"
+
+-------- en:tn_Wallachia:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(85): "Wallachia"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(10): "Wallachian"
+
+-------- en:tn_Wallachia:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(85): "Wallachia's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(10): "of Wallachia"
+
+-------- en:tn_Wallachia:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(85): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(10): "Wallachian"
+
+-------- en:tn_Wallachia:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(85): "Wallachia"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(10): "Wallachians"
+
+-------- en:tn_Moldavia:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(86): "Moldavia"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(9): "Moldavian"
+
+-------- en:tn_Moldavia:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(86): "Moldavia's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(9): "of Moldavia"
+
+-------- en:tn_Moldavia:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(86): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(9): "Moldavian"
+
+-------- en:tn_Moldavia:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(86): "Moldavia"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(9): "Moldavians"
+
+-------- en:tn_Branichevo:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(87): "Margus"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(12): "Branichevian"
+
+-------- en:tn_Branichevo:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(87): "Margus's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(12): "of Branichevo"
+
+-------- en:tn_Branichevo:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(87): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(12): "Branichevian"
+
+-------- en:tn_Branichevo:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(87): "Margus"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(12): "Branichevians"
+
+-------- en:tn_Nis:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(88): "Naissus"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(13): "Nishian"
+
+-------- en:tn_Nis:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(88): "Naissus's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(13): "of Nish"
+
+-------- en:tn_Nis:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(88): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(13): "Nishian"
+
+-------- en:tn_Nis:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(88): "Naissus"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(13): "Nishians"
+
+-------- en:tn_Trapezitsa:en:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(131): "Trapezitsa"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(4): "Preslavian"
+
+-------- en:tn_Trapezitsa:Adjective:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(131): "Trapezitsa's"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(4): "of Veliki Preslav"
+
+-------- en:tn_Trapezitsa:Genitive:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(131): "a {ian}"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(4): "Preslavian"
+
+-------- en:tn_Trapezitsa:Indefinite:
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\681AD\texts\en\en_681AD_teritories.csv(131): "Trapezitsa"
+C:\Users\Lalyo Boyadzhiev\AppData\LocalLow\BlackSeaGames\Sovereign\Mods\917AD\texts\en\en_917AD_teritories.csv(4): "Preslavians"
 
 
 

@@ -1,1 +1,13 @@
 A historical mod that adds the year 681 AD as a playable starting period, featuring Kan Asparuh and the foundation of the First Bulgarian Empire.
+
+Credits:
+Lalyo Boyadzhiev
+
+Project URL:
+https://github.com/enemyssss/Knights-of-Honor-II-Sovereign-681-AD-First-Bulgarian-State
+
+Special thanks to the developers for providing official mod support.
+
+Requires a legal copy of the game.
+
+[url=https://www.paypal.com/donate/?hosted_button_id=D64HSUS5CZGEJ]☕ If you enjoy this mod and want to support my work, you can donate via PayPal here![/url]
